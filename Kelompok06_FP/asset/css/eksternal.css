@@ -1,0 +1,106 @@
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.img-center {
+	margin: 0 auto;
+}
+/* css slide gambar */
+.slide-image {
+    width: 100%;
+}
+
+.carousel-holder {
+    margin-bottom: 30px;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+/*---*/
+.caption {
+    height: 130px;
+    overflow: hidden;
+}
+
+.caption h4 {
+    white-space: nowrap;
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+/* css gambar di shop.html */
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+/*--*/
+
+
+.footer-above {
+    background-color: #81CFE0;
+
+}
+/* css menu */
+.navbar {
+    margin-bottom: 0;
+    background-color: #336699;
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+    font-family: Montserrat, sans-serif;
+ }
+.navbar li a, .navbar .navbar-brand {
+    color: #fff !important;
+}
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #000000   !important;
+    background-color: #fff !important;
+}
+
+.dropdown-menu {
+    background-color: black;
+}
+
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #fff !important;
+  }
+/*---*/  
+.call-to-action {
+    padding: 50px 0;
+}
+/* css social media */
+.bg-bawah {
+  color: #000000;
+  background-color: #ffffff;
+}
+
+a.bg-bawah:hover,
+a.bg-bawah:focus {
+  background-color: #ffffff;
+}
+
+.keluar{
+    margin-top: 14px;
+    margin-left: 1150px;
+    background-color: #008CBA;
+    
+}
+/*---*/
